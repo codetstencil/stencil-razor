@@ -1,0 +1,7 @@
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\build\ZeraSystems.CodeNanite.AspNetRazor.dll
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\build\ZeraSystems.CodeNanite.AspNetRazor.pdb
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\src\AspNetRazor\obj\Debug\AspNetRazor.csprojAssemblyReference.cache
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\src\AspNetRazor\obj\Debug\AspNetRazor.csproj.CoreCompileInputs.cache
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\src\AspNetRazor\obj\Debug\AspNetRazor.csproj.CopyComplete
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\src\AspNetRazor\obj\Debug\ZeraSystems.CodeNanite.AspNetRazor.dll
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.aspnetcore-razor\src\AspNetRazor\obj\Debug\ZeraSystems.CodeNanite.AspNetRazor.pdb

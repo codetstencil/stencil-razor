@@ -1,0 +1,13 @@
+D:\projects-desktop\custom-stencils\zerasystems.default\build\ZeraSystems.CodeNanite.Default.dll
+D:\projects-desktop\custom-stencils\zerasystems.default\build\ZeraSystems.CodeNanite.Default.pdb
+D:\projects-desktop\custom-stencils\zerasystems.default\src\Default\obj\Debug\Default.csproj.CoreCompileInputs.cache
+D:\projects-desktop\custom-stencils\zerasystems.default\src\Default\obj\Debug\Default.csproj.CopyComplete
+D:\projects-desktop\custom-stencils\zerasystems.default\src\Default\obj\Debug\ZeraSystems.CodeNanite.Default.dll
+D:\projects-desktop\custom-stencils\zerasystems.default\src\Default\obj\Debug\ZeraSystems.CodeNanite.Default.pdb
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\build\ZeraSystems.CodeNanite.Default.dll
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\build\ZeraSystems.CodeNanite.Default.pdb
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\src\Default\obj\Debug\Default.csprojAssemblyReference.cache
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\src\Default\obj\Debug\Default.csproj.CoreCompileInputs.cache
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\src\Default\obj\Debug\Default.csproj.CopyComplete
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\src\Default\obj\Debug\ZeraSystems.CodeNanite.Default.dll
+D:\projects-desktop\codestencil\custom-stencils\zerasystems\zerasystems.default\src\Default\obj\Debug\ZeraSystems.CodeNanite.Default.pdb
